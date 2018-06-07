@@ -1,0 +1,706 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HHFileDownloader"
+provides-nominal:
+- "18Picture_Downloader06HHFileB0C"
+provides-member:
+- ["18Picture_Downloader06HHFileB0C", ""]
+provides-dynamic-lookup:
+- "urlSession"
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "+"
+- !private "+="
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "DispatchQueue"
+- !private "ExtendedGraphemeClusterType"
+- !private "FileManager"
+- "HHDownloadItem"
+- "HHFileDownloader"
+- "HHFileDownloaderDelegateProtocol"
+- !private "NSError"
+- "NSObject"
+- !private "NSString"
+- !private "NSURL"
+- "String"
+- "StringLiteralType"
+- "URL"
+- "URLSession"
+- !private "URLSessionConfiguration"
+- "URLSessionDataTask"
+- "URLSessionDownloadDelegate"
+- "URLSessionDownloadTask"
+- !private "UnicodeScalarType"
+- !private "print"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "Encoding"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "last"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "DispatchQueue"]
+- !private ["s7CVarArgP", "Encoding"]
+- !private ["s7CVarArgP", "FileManager"]
+- !private ["s7CVarArgP", "NSString"]
+- !private ["s7CVarArgP", "NSURL"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "URL"]
+- ["s7CVarArgP", "URLSession"]
+- !private ["s7CVarArgP", "URLSessionConfiguration"]
+- ["s7CVarArgP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "cancel"]
+- !private ["s7CVarArgP", "copyItem"]
+- !private ["s7CVarArgP", "copyItemAtPath"]
+- !private ["s7CVarArgP", "dataTask"]
+- ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "defaultSession"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "downloadFilename"]
+- !private ["s7CVarArgP", "downloadFolder"]
+- !private ["s7CVarArgP", "downloadItem"]
+- !private ["s7CVarArgP", "downloadTask"]
+- !private ["s7CVarArgP", "downloadsSession"]
+- !private ["s7CVarArgP", "imageName"]
+- !private ["s7CVarArgP", "imageUrl"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "last"]
+- !private ["s7CVarArgP", "localizedDescription"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "resume"]
+- !private ["s7CVarArgP", "saveImagePath"]
+- ["s7CVarArgP", "urlSession"]
+- ["s7CVarArgP", "urlSessionDidFinishEvents"]
+- !private ["s9CharacterV", "init"]
+- !private ["s10CollectionP", "Encoding"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "last"]
+- !private ["s10ComparableP", "Encoding"]
+- ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "DispatchQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "Encoding"]
+- !private ["s28CustomDebugStringConvertibleP", "FileManager"]
+- !private ["s28CustomDebugStringConvertibleP", "NSString"]
+- !private ["s28CustomDebugStringConvertibleP", "NSURL"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "URL"]
+- ["s28CustomDebugStringConvertibleP", "URLSession"]
+- !private ["s28CustomDebugStringConvertibleP", "URLSessionConfiguration"]
+- ["s28CustomDebugStringConvertibleP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "cancel"]
+- !private ["s28CustomDebugStringConvertibleP", "copyItem"]
+- !private ["s28CustomDebugStringConvertibleP", "copyItemAtPath"]
+- !private ["s28CustomDebugStringConvertibleP", "dataTask"]
+- ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "defaultSession"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "downloadFilename"]
+- !private ["s28CustomDebugStringConvertibleP", "downloadFolder"]
+- !private ["s28CustomDebugStringConvertibleP", "downloadItem"]
+- !private ["s28CustomDebugStringConvertibleP", "downloadTask"]
+- !private ["s28CustomDebugStringConvertibleP", "downloadsSession"]
+- !private ["s28CustomDebugStringConvertibleP", "imageName"]
+- !private ["s28CustomDebugStringConvertibleP", "imageUrl"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "localizedDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "resume"]
+- !private ["s28CustomDebugStringConvertibleP", "saveImagePath"]
+- ["s28CustomDebugStringConvertibleP", "urlSession"]
+- ["s28CustomDebugStringConvertibleP", "urlSessionDidFinishEvents"]
+- !private ["s29CustomPlaygroundQuickLookableP", "Encoding"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "last"]
+- !private ["s29CustomPlaygroundQuickLookableP", "path"]
+- !private ["s17CustomReflectableP", "Encoding"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "last"]
+- !private ["s23CustomStringConvertibleP", "DispatchQueue"]
+- !private ["s23CustomStringConvertibleP", "Encoding"]
+- !private ["s23CustomStringConvertibleP", "FileManager"]
+- !private ["s23CustomStringConvertibleP", "NSString"]
+- !private ["s23CustomStringConvertibleP", "NSURL"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "URL"]
+- ["s23CustomStringConvertibleP", "URLSession"]
+- !private ["s23CustomStringConvertibleP", "URLSessionConfiguration"]
+- ["s23CustomStringConvertibleP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "cancel"]
+- !private ["s23CustomStringConvertibleP", "copyItem"]
+- !private ["s23CustomStringConvertibleP", "copyItemAtPath"]
+- !private ["s23CustomStringConvertibleP", "dataTask"]
+- ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "defaultSession"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "downloadFilename"]
+- !private ["s23CustomStringConvertibleP", "downloadFolder"]
+- !private ["s23CustomStringConvertibleP", "downloadItem"]
+- !private ["s23CustomStringConvertibleP", "downloadTask"]
+- !private ["s23CustomStringConvertibleP", "downloadsSession"]
+- !private ["s23CustomStringConvertibleP", "imageName"]
+- !private ["s23CustomStringConvertibleP", "imageUrl"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "last"]
+- !private ["s23CustomStringConvertibleP", "localizedDescription"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "rawValue"]
+- !private ["s23CustomStringConvertibleP", "resume"]
+- !private ["s23CustomStringConvertibleP", "saveImagePath"]
+- ["s23CustomStringConvertibleP", "urlSession"]
+- ["s23CustomStringConvertibleP", "urlSessionDidFinishEvents"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["s9DecodableP", "Encoding"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "last"]
+- !private ["s9DecodableP", "path"]
+- !private ["So14DispatchObjectC", "async"]
+- !private ["So14DispatchObjectC", "main"]
+- !private ["So13DispatchQueueC", "async"]
+- !private ["So13DispatchQueueC", "main"]
+- !private ["s9EncodableP", "Encoding"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "last"]
+- !private ["s9EncodableP", "path"]
+- !private ["SS10FoundationE8EncodingV", "rawValue"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- !private ["s9EquatableP", "DispatchQueue"]
+- !private ["s9EquatableP", "Encoding"]
+- !private ["s9EquatableP", "FileManager"]
+- !private ["s9EquatableP", "NSString"]
+- !private ["s9EquatableP", "NSURL"]
+- !private ["s9EquatableP", "String"]
+- !private ["s9EquatableP", "URL"]
+- ["s9EquatableP", "URLSession"]
+- !private ["s9EquatableP", "URLSessionConfiguration"]
+- ["s9EquatableP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "async"]
+- !private ["s9EquatableP", "cancel"]
+- !private ["s9EquatableP", "copyItem"]
+- !private ["s9EquatableP", "copyItemAtPath"]
+- !private ["s9EquatableP", "dataTask"]
+- ["s9EquatableP", "default"]
+- !private ["s9EquatableP", "defaultSession"]
+- !private ["s9EquatableP", "delegate"]
+- !private ["s9EquatableP", "downloadFilename"]
+- !private ["s9EquatableP", "downloadFolder"]
+- !private ["s9EquatableP", "downloadItem"]
+- !private ["s9EquatableP", "downloadTask"]
+- !private ["s9EquatableP", "downloadsSession"]
+- !private ["s9EquatableP", "imageName"]
+- !private ["s9EquatableP", "imageUrl"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "last"]
+- !private ["s9EquatableP", "localizedDescription"]
+- !private ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "path"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "rawValue"]
+- !private ["s9EquatableP", "resume"]
+- !private ["s9EquatableP", "saveImagePath"]
+- ["s9EquatableP", "urlSession"]
+- ["s9EquatableP", "urlSessionDidFinishEvents"]
+- !private ["s9EquatableP", "utf8"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Encoding"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "last"]
+- !private ["s26ExpressibleByStringLiteralP", "Encoding"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "last"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Encoding"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "last"]
+- !private ["So11FileManagerC", "copyItem"]
+- !private ["So11FileManagerC", "default"]
+- !private ["18Picture_Downloader14HHDownloadItemC", "deinit"]
+- !private ["18Picture_Downloader14HHDownloadItemC", "imageName"]
+- !private ["18Picture_Downloader14HHDownloadItemC", "imageUrl"]
+- !private ["18Picture_Downloader14HHDownloadItemC", "saveImagePath"]
+- ["18Picture_Downloader06HHFileB0C", "Bool"]
+- !private ["18Picture_Downloader06HHFileB0C", "DispatchQueue"]
+- !private ["18Picture_Downloader06HHFileB0C", "FileManager"]
+- ["18Picture_Downloader06HHFileB0C", "HHDownloadItem"]
+- ["18Picture_Downloader06HHFileB0C", "HHFileDownloaderDelegateProtocol"]
+- !private ["18Picture_Downloader06HHFileB0C", "NSError"]
+- !private ["18Picture_Downloader06HHFileB0C", "NSString"]
+- !private ["18Picture_Downloader06HHFileB0C", "NSURL"]
+- ["18Picture_Downloader06HHFileB0C", "String"]
+- ["18Picture_Downloader06HHFileB0C", "URL"]
+- ["18Picture_Downloader06HHFileB0C", "URLSession"]
+- !private ["18Picture_Downloader06HHFileB0C", "URLSessionConfiguration"]
+- ["18Picture_Downloader06HHFileB0C", "URLSessionDataTask"]
+- ["18Picture_Downloader06HHFileB0C", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["18Picture_Downloader06HHFileB0C", "URLSessionDownloadTask"]
+- ["18Picture_Downloader06HHFileB0C", "copyItemAtPath"]
+- !private ["18Picture_Downloader06HHFileB0C", "dataTask"]
+- !private ["18Picture_Downloader06HHFileB0C", "defaultSession"]
+- ["18Picture_Downloader06HHFileB0C", "deinit"]
+- ["18Picture_Downloader06HHFileB0C", "delegate"]
+- ["18Picture_Downloader06HHFileB0C", "downloadFileAsync"]
+- !private ["18Picture_Downloader06HHFileB0C", "downloadFilename"]
+- ["18Picture_Downloader06HHFileB0C", "downloadFolder"]
+- !private ["18Picture_Downloader06HHFileB0C", "downloadItem"]
+- ["18Picture_Downloader06HHFileB0C", "downloadItemAsync"]
+- !private ["18Picture_Downloader06HHFileB0C", "downloadTask"]
+- ["18Picture_Downloader06HHFileB0C", "downloadWebpageHtmlAsync"]
+- ["18Picture_Downloader06HHFileB0C", "downloadsSession"]
+- !private ["18Picture_Downloader06HHFileB0C", "downloadsSession.storage"]
+- ["18Picture_Downloader06HHFileB0C", "init"]
+- !private ["18Picture_Downloader06HHFileB0C", "print"]
+- ["18Picture_Downloader06HHFileB0C", "urlSession"]
+- ["18Picture_Downloader06HHFileB0C", "urlSessionDidFinishEvents"]
+- ["18Picture_Downloader06HHFileB0C", "validate"]
+- !private ["18Picture_Downloader06HHFileB16DelegateProtocolP", "downloadError"]
+- !private ["18Picture_Downloader06HHFileB16DelegateProtocolP", "downloadFileAsyncCompleted"]
+- !private ["18Picture_Downloader06HHFileB16DelegateProtocolP", "downloadItemAsyncCompleted"]
+- !private ["18Picture_Downloader06HHFileB16DelegateProtocolP", "downloadWebpageHtmlAsyncCompleted"]
+- !private ["s8HashableP", "DispatchQueue"]
+- !private ["s8HashableP", "Encoding"]
+- !private ["s8HashableP", "FileManager"]
+- !private ["s8HashableP", "NSString"]
+- !private ["s8HashableP", "NSURL"]
+- !private ["s8HashableP", "String"]
+- !private ["s8HashableP", "URL"]
+- ["s8HashableP", "URLSession"]
+- !private ["s8HashableP", "URLSessionConfiguration"]
+- ["s8HashableP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "async"]
+- !private ["s8HashableP", "cancel"]
+- !private ["s8HashableP", "copyItem"]
+- !private ["s8HashableP", "copyItemAtPath"]
+- !private ["s8HashableP", "dataTask"]
+- ["s8HashableP", "default"]
+- !private ["s8HashableP", "defaultSession"]
+- !private ["s8HashableP", "delegate"]
+- !private ["s8HashableP", "downloadFilename"]
+- !private ["s8HashableP", "downloadFolder"]
+- !private ["s8HashableP", "downloadItem"]
+- !private ["s8HashableP", "downloadTask"]
+- !private ["s8HashableP", "downloadsSession"]
+- !private ["s8HashableP", "imageName"]
+- !private ["s8HashableP", "imageUrl"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "last"]
+- !private ["s8HashableP", "localizedDescription"]
+- !private ["s8HashableP", "main"]
+- !private ["s8HashableP", "path"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "rawValue"]
+- !private ["s8HashableP", "resume"]
+- !private ["s8HashableP", "saveImagePath"]
+- ["s8HashableP", "urlSession"]
+- ["s8HashableP", "urlSessionDidFinishEvents"]
+- !private ["s8HashableP", "utf8"]
+- !private ["s25LosslessStringConvertibleP", "Encoding"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "last"]
+- !private ["s10MirrorPathP", "Encoding"]
+- ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "last"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "last"]
+- !private ["So8NSCodingP", "localizedDescription"]
+- !private ["So9NSCopyingP", "cancel"]
+- ["So9NSCopyingP", "default"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "last"]
+- !private ["So9NSCopyingP", "localizedDescription"]
+- !private ["So9NSCopyingP", "resume"]
+- !private ["So7NSErrorC", "localizedDescription"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "last"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "last"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "last"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "DispatchQueue"]
+- !private ["So8NSObjectC", "FileManager"]
+- ["So8NSObjectC", "HHDownloadItem"]
+- ["So8NSObjectC", "HHFileDownloaderDelegateProtocol"]
+- !private ["So8NSObjectC", "NSError"]
+- !private ["So8NSObjectC", "NSString"]
+- !private ["So8NSObjectC", "NSURL"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "URL"]
+- ["So8NSObjectC", "URLSession"]
+- !private ["So8NSObjectC", "URLSessionConfiguration"]
+- ["So8NSObjectC", "URLSessionDataTask"]
+- ["So8NSObjectC", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["So8NSObjectC", "URLSessionDownloadTask"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "cancel"]
+- !private ["So8NSObjectC", "copyItem"]
+- ["So8NSObjectC", "copyItemAtPath"]
+- ["So8NSObjectC", "dataTask"]
+- ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "defaultSession"]
+- ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "downloadFileAsync"]
+- ["So8NSObjectC", "downloadFilename"]
+- ["So8NSObjectC", "downloadFolder"]
+- ["So8NSObjectC", "downloadItem"]
+- ["So8NSObjectC", "downloadItemAsync"]
+- ["So8NSObjectC", "downloadTask"]
+- ["So8NSObjectC", "downloadWebpageHtmlAsync"]
+- ["So8NSObjectC", "downloadsSession"]
+- ["So8NSObjectC", "downloadsSession.storage"]
+- !private ["So8NSObjectC", "imageName"]
+- !private ["So8NSObjectC", "imageUrl"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "last"]
+- !private ["So8NSObjectC", "localizedDescription"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "resume"]
+- !private ["So8NSObjectC", "saveImagePath"]
+- ["So8NSObjectC", "urlSession"]
+- ["So8NSObjectC", "urlSessionDidFinishEvents"]
+- ["So8NSObjectC", "validate"]
+- !private ["So16NSObjectProtocolP", "DispatchQueue"]
+- !private ["So16NSObjectProtocolP", "FileManager"]
+- !private ["So16NSObjectProtocolP", "NSString"]
+- !private ["So16NSObjectProtocolP", "NSURL"]
+- !private ["So16NSObjectProtocolP", "String"]
+- !private ["So16NSObjectProtocolP", "URL"]
+- ["So16NSObjectProtocolP", "URLSession"]
+- !private ["So16NSObjectProtocolP", "URLSessionConfiguration"]
+- ["So16NSObjectProtocolP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "async"]
+- !private ["So16NSObjectProtocolP", "cancel"]
+- !private ["So16NSObjectProtocolP", "copyItem"]
+- !private ["So16NSObjectProtocolP", "copyItemAtPath"]
+- !private ["So16NSObjectProtocolP", "dataTask"]
+- ["So16NSObjectProtocolP", "default"]
+- !private ["So16NSObjectProtocolP", "defaultSession"]
+- !private ["So16NSObjectProtocolP", "delegate"]
+- !private ["So16NSObjectProtocolP", "downloadFilename"]
+- !private ["So16NSObjectProtocolP", "downloadFolder"]
+- !private ["So16NSObjectProtocolP", "downloadItem"]
+- !private ["So16NSObjectProtocolP", "downloadTask"]
+- !private ["So16NSObjectProtocolP", "downloadsSession"]
+- !private ["So16NSObjectProtocolP", "imageName"]
+- !private ["So16NSObjectProtocolP", "imageUrl"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "last"]
+- !private ["So16NSObjectProtocolP", "localizedDescription"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "resume"]
+- !private ["So16NSObjectProtocolP", "saveImagePath"]
+- ["So16NSObjectProtocolP", "urlSession"]
+- ["So16NSObjectProtocolP", "urlSessionDidFinishEvents"]
+- !private ["So19NSPasteboardReadingP", "init"]
+- !private ["So19NSPasteboardReadingP", "last"]
+- !private ["So19NSPasteboardWritingP", "init"]
+- !private ["So19NSPasteboardWritingP", "last"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "last"]
+- !private ["So14NSSecureCodingP", "localizedDescription"]
+- !private ["So8NSStringC", "init"]
+- !private ["So8NSStringC", "last"]
+- !private ["So5NSURLC", "init"]
+- !private ["So17NSURLHandleClientP", "init"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- !private ["So17ProgressReportingP", "cancel"]
+- !private ["So17ProgressReportingP", "resume"]
+- !private ["s26RangeReplaceableCollectionP", "Encoding"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "last"]
+- !private ["s16RawRepresentableP", "rawValue"]
+- !private ["s16RawRepresentableP", "utf8"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "path"]
+- !private ["s8SequenceP", "Encoding"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "last"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "Encoding"]
+- ["SS", "init"]
+- !private ["SS", "last"]
+- !private ["s14StringProtocolP", "Encoding"]
+- ["s14StringProtocolP", "init"]
+- !private ["s14StringProtocolP", "last"]
+- !private ["s16TextOutputStreamP", "Encoding"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "last"]
+- !private ["s20TextOutputStreamableP", "Encoding"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "last"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["10Foundation3URLV", "path"]
+- !private ["So10URLSessionC", "dataTask"]
+- !private ["So10URLSessionC", "downloadTask"]
+- ["So10URLSessionC", "init"]
+- ["So23URLSessionConfigurationC", "default"]
+- !private ["So18URLSessionDataTaskC", "cancel"]
+- !private ["So18URLSessionDataTaskC", "resume"]
+- !private ["So18URLSessionDelegateP", "DispatchQueue"]
+- !private ["So18URLSessionDelegateP", "FileManager"]
+- !private ["So18URLSessionDelegateP", "NSString"]
+- !private ["So18URLSessionDelegateP", "NSURL"]
+- !private ["So18URLSessionDelegateP", "String"]
+- !private ["So18URLSessionDelegateP", "URL"]
+- ["So18URLSessionDelegateP", "URLSession"]
+- !private ["So18URLSessionDelegateP", "URLSessionConfiguration"]
+- ["So18URLSessionDelegateP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["So18URLSessionDelegateP", ""]
+- !private ["So18URLSessionDelegateP", "copyItemAtPath"]
+- !private ["So18URLSessionDelegateP", "dataTask"]
+- !private ["So18URLSessionDelegateP", "defaultSession"]
+- !private ["So18URLSessionDelegateP", "delegate"]
+- !private ["So18URLSessionDelegateP", "downloadFilename"]
+- !private ["So18URLSessionDelegateP", "downloadFolder"]
+- !private ["So18URLSessionDelegateP", "downloadItem"]
+- !private ["So18URLSessionDelegateP", "downloadTask"]
+- !private ["So18URLSessionDelegateP", "downloadsSession"]
+- !private ["So18URLSessionDelegateP", "print"]
+- ["So18URLSessionDelegateP", "urlSession"]
+- ["So18URLSessionDelegateP", "urlSessionDidFinishEvents"]
+- !private ["So26URLSessionDownloadDelegateP", "DispatchQueue"]
+- !private ["So26URLSessionDownloadDelegateP", "FileManager"]
+- !private ["So26URLSessionDownloadDelegateP", "NSString"]
+- !private ["So26URLSessionDownloadDelegateP", "NSURL"]
+- !private ["So26URLSessionDownloadDelegateP", "String"]
+- !private ["So26URLSessionDownloadDelegateP", "URL"]
+- ["So26URLSessionDownloadDelegateP", "URLSession"]
+- !private ["So26URLSessionDownloadDelegateP", "URLSessionConfiguration"]
+- ["So26URLSessionDownloadDelegateP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["So26URLSessionDownloadDelegateP", ""]
+- !private ["So26URLSessionDownloadDelegateP", "copyItemAtPath"]
+- !private ["So26URLSessionDownloadDelegateP", "dataTask"]
+- !private ["So26URLSessionDownloadDelegateP", "defaultSession"]
+- !private ["So26URLSessionDownloadDelegateP", "delegate"]
+- !private ["So26URLSessionDownloadDelegateP", "downloadFilename"]
+- !private ["So26URLSessionDownloadDelegateP", "downloadFolder"]
+- !private ["So26URLSessionDownloadDelegateP", "downloadItem"]
+- !private ["So26URLSessionDownloadDelegateP", "downloadTask"]
+- !private ["So26URLSessionDownloadDelegateP", "downloadsSession"]
+- !private ["So26URLSessionDownloadDelegateP", "print"]
+- ["So26URLSessionDownloadDelegateP", "urlSession"]
+- ["So26URLSessionDownloadDelegateP", "urlSessionDidFinishEvents"]
+- !private ["So22URLSessionDownloadTaskC", "resume"]
+- !private ["So14URLSessionTaskC", "cancel"]
+- !private ["So14URLSessionTaskC", "resume"]
+- !private ["So22URLSessionTaskDelegateP", "DispatchQueue"]
+- !private ["So22URLSessionTaskDelegateP", "FileManager"]
+- !private ["So22URLSessionTaskDelegateP", "NSString"]
+- !private ["So22URLSessionTaskDelegateP", "NSURL"]
+- !private ["So22URLSessionTaskDelegateP", "String"]
+- !private ["So22URLSessionTaskDelegateP", "URL"]
+- ["So22URLSessionTaskDelegateP", "URLSession"]
+- !private ["So22URLSessionTaskDelegateP", "URLSessionConfiguration"]
+- ["So22URLSessionTaskDelegateP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["So22URLSessionTaskDelegateP", ""]
+- !private ["So22URLSessionTaskDelegateP", "copyItemAtPath"]
+- !private ["So22URLSessionTaskDelegateP", "dataTask"]
+- !private ["So22URLSessionTaskDelegateP", "defaultSession"]
+- !private ["So22URLSessionTaskDelegateP", "delegate"]
+- !private ["So22URLSessionTaskDelegateP", "downloadFilename"]
+- !private ["So22URLSessionTaskDelegateP", "downloadFolder"]
+- !private ["So22URLSessionTaskDelegateP", "downloadItem"]
+- !private ["So22URLSessionTaskDelegateP", "downloadTask"]
+- !private ["So22URLSessionTaskDelegateP", "downloadsSession"]
+- !private ["So22URLSessionTaskDelegateP", "print"]
+- ["So22URLSessionTaskDelegateP", "urlSession"]
+- ["So22URLSessionTaskDelegateP", "urlSessionDidFinishEvents"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Encoding"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "last"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "Encoding"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "last"]
+- !private ["s56_ExpressibleByBuiltinUTF16ExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "Encoding"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "last"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Encoding"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "last"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "path"]
+- !private ["s33_ExpressibleByStringInterpolationP", "Encoding"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "last"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "last"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DispatchQueue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FileManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URL"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "URLSession"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URLSessionConfiguration"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cancel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "copyItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "copyItemAtPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataTask"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "defaultSession"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "downloadFilename"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "downloadFolder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "downloadItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "downloadTask"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "downloadsSession"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageUrl"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "last"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "localizedDescription"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resume"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "saveImagePath"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "urlSession"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "urlSessionDidFinishEvents"]
+- !private ["s21_ObjectiveCBridgeableP", "Encoding"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "last"]
+- !private ["s21_ObjectiveCBridgeableP", "path"]
+- !private ["s16_SwiftStringViewP", "Encoding"]
+- ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "last"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "s9CharacterV"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "So14DispatchObjectC"
+- !private "So13DispatchQueueC"
+- "s9EncodableP"
+- !private "SS10FoundationE8EncodingV"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So11FileManagerC"
+- !private "18Picture_Downloader14HHDownloadItemC"
+- "18Picture_Downloader06HHFileB0C"
+- !private "18Picture_Downloader06HHFileB16DelegateProtocolP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So7NSErrorC"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So19NSPasteboardReadingP"
+- !private "So19NSPasteboardWritingP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So5NSURLC"
+- !private "So17NSURLHandleClientP"
+- !private "So9OS_objectC"
+- !private "So17ProgressReportingP"
+- "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "s8SequenceP"
+- !private "s12StaticStringV"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- "So10URLSessionC"
+- "So23URLSessionConfigurationC"
+- !private "So18URLSessionDataTaskC"
+- "So18URLSessionDelegateP"
+- "So26URLSessionDownloadDelegateP"
+- !private "So22URLSessionDownloadTaskC"
+- !private "So14URLSessionTaskC"
+- "So22URLSessionTaskDelegateP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s56_ExpressibleByBuiltinUTF16ExtendedGraphemeClusterLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "287b94c4affaae8ae1ed965e283d767d"

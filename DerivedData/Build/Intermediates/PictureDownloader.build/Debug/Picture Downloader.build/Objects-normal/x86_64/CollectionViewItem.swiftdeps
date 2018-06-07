@@ -1,0 +1,513 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CollectionViewItem"
+provides-nominal:
+- "18Picture_Downloader18CollectionViewItemC"
+provides-member:
+- ["18Picture_Downloader18CollectionViewItemC", ""]
+provides-dynamic-lookup:
+- "isSelected"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CollectionViewItem"
+- "ImageFile"
+- "NSCollectionViewItem"
+- !private "NSColor"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So7CALayerC", "backgroundColor"]
+- !private ["So7CALayerC", "borderColor"]
+- !private ["So7CALayerC", "borderWidth"]
+- !private ["So13CAMediaTimingP", "backgroundColor"]
+- !private ["So13CAMediaTimingP", "borderColor"]
+- !private ["So13CAMediaTimingP", "borderWidth"]
+- !private ["s7CVarArgP", "NSColor"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "borderColor"]
+- !private ["s7CVarArgP", "borderWidth"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "imageFile"]
+- !private ["s7CVarArgP", "imageView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isSelected"]
+- !private ["s7CVarArgP", "isViewLoaded"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "stringValue"]
+- !private ["s7CVarArgP", "textField"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "wantsLayer"]
+- !private ["s7CVarArgP", "white"]
+- !private ["s10CollectionP", "init"]
+- ["18Picture_Downloader18CollectionViewItemC", "Bool"]
+- ["18Picture_Downloader18CollectionViewItemC", "ImageFile"]
+- !private ["18Picture_Downloader18CollectionViewItemC", "NSColor"]
+- ["18Picture_Downloader18CollectionViewItemC", "deinit"]
+- ["18Picture_Downloader18CollectionViewItemC", "imageFile"]
+- !private ["18Picture_Downloader18CollectionViewItemC", "imageView"]
+- ["18Picture_Downloader18CollectionViewItemC", "init"]
+- ["18Picture_Downloader18CollectionViewItemC", "isSelected"]
+- !private ["18Picture_Downloader18CollectionViewItemC", "isViewLoaded"]
+- !private ["18Picture_Downloader18CollectionViewItemC", "textField"]
+- !private ["18Picture_Downloader18CollectionViewItemC", "view"]
+- ["18Picture_Downloader18CollectionViewItemC", "viewDidLoad"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "NSColor"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "borderColor"]
+- !private ["s28CustomDebugStringConvertibleP", "borderWidth"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "imageFile"]
+- !private ["s28CustomDebugStringConvertibleP", "imageView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isSelected"]
+- !private ["s28CustomDebugStringConvertibleP", "isViewLoaded"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "textField"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "wantsLayer"]
+- !private ["s28CustomDebugStringConvertibleP", "white"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "NSColor"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "borderColor"]
+- !private ["s23CustomStringConvertibleP", "borderWidth"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "imageFile"]
+- !private ["s23CustomStringConvertibleP", "imageView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isSelected"]
+- !private ["s23CustomStringConvertibleP", "isViewLoaded"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "textField"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "wantsLayer"]
+- !private ["s23CustomStringConvertibleP", "white"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "NSColor"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "backgroundColor"]
+- !private ["s9EquatableP", "borderColor"]
+- !private ["s9EquatableP", "borderWidth"]
+- !private ["s9EquatableP", "cgColor"]
+- !private ["s9EquatableP", "image"]
+- !private ["s9EquatableP", "imageFile"]
+- !private ["s9EquatableP", "imageView"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isSelected"]
+- !private ["s9EquatableP", "isViewLoaded"]
+- !private ["s9EquatableP", "layer"]
+- !private ["s9EquatableP", "stringValue"]
+- !private ["s9EquatableP", "textField"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s9EquatableP", "wantsLayer"]
+- !private ["s9EquatableP", "white"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "NSColor"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "backgroundColor"]
+- !private ["s8HashableP", "borderColor"]
+- !private ["s8HashableP", "borderWidth"]
+- !private ["s8HashableP", "cgColor"]
+- !private ["s8HashableP", "image"]
+- !private ["s8HashableP", "imageFile"]
+- !private ["s8HashableP", "imageView"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "isSelected"]
+- !private ["s8HashableP", "isViewLoaded"]
+- !private ["s8HashableP", "layer"]
+- !private ["s8HashableP", "stringValue"]
+- !private ["s8HashableP", "textField"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "viewDidLoad"]
+- !private ["s8HashableP", "wantsLayer"]
+- !private ["s8HashableP", "white"]
+- !private ["18Picture_Downloader9ImageFileC", "fileName"]
+- !private ["18Picture_Downloader9ImageFileC", "thumbnail"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So15NSAccessibilityP", "image"]
+- !private ["So15NSAccessibilityP", "layer"]
+- !private ["So15NSAccessibilityP", "stringValue"]
+- !private ["So15NSAccessibilityP", "wantsLayer"]
+- !private ["So30NSAccessibilityElementProtocolP", "image"]
+- !private ["So30NSAccessibilityElementProtocolP", "layer"]
+- !private ["So30NSAccessibilityElementProtocolP", "stringValue"]
+- !private ["So30NSAccessibilityElementProtocolP", "wantsLayer"]
+- !private ["So20NSAccessibilityImageP", "image"]
+- !private ["So34NSAccessibilityNavigableStaticTextP", "stringValue"]
+- !private ["So25NSAccessibilityStaticTextP", "stringValue"]
+- !private ["So29NSAnimatablePropertyContainerP", "image"]
+- !private ["So29NSAnimatablePropertyContainerP", "layer"]
+- !private ["So29NSAnimatablePropertyContainerP", "stringValue"]
+- !private ["So29NSAnimatablePropertyContainerP", "wantsLayer"]
+- !private ["So25NSAppearanceCustomizationP", "image"]
+- !private ["So25NSAppearanceCustomizationP", "layer"]
+- !private ["So25NSAppearanceCustomizationP", "stringValue"]
+- !private ["So25NSAppearanceCustomizationP", "wantsLayer"]
+- !private ["So8NSCodingP", "NSColor"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "borderColor"]
+- !private ["So8NSCodingP", "borderWidth"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "imageFile"]
+- !private ["So8NSCodingP", "imageView"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isSelected"]
+- !private ["So8NSCodingP", "isViewLoaded"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "stringValue"]
+- !private ["So8NSCodingP", "textField"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "wantsLayer"]
+- !private ["So8NSCodingP", "white"]
+- !private ["So23NSCollectionViewElementP", "NSColor"]
+- ["So23NSCollectionViewElementP", ""]
+- !private ["So23NSCollectionViewElementP", "imageFile"]
+- !private ["So23NSCollectionViewElementP", "imageView"]
+- !private ["So23NSCollectionViewElementP", "init"]
+- !private ["So23NSCollectionViewElementP", "isSelected"]
+- !private ["So23NSCollectionViewElementP", "isViewLoaded"]
+- !private ["So23NSCollectionViewElementP", "textField"]
+- !private ["So23NSCollectionViewElementP", "view"]
+- !private ["So23NSCollectionViewElementP", "viewDidLoad"]
+- ["So20NSCollectionViewItemC", "Bool"]
+- ["So20NSCollectionViewItemC", "ImageFile"]
+- !private ["So20NSCollectionViewItemC", "NSColor"]
+- ["So20NSCollectionViewItemC", ""]
+- ["So20NSCollectionViewItemC", "imageFile"]
+- !private ["So20NSCollectionViewItemC", "imageView"]
+- ["So20NSCollectionViewItemC", "init"]
+- ["So20NSCollectionViewItemC", "isSelected"]
+- !private ["So20NSCollectionViewItemC", "isViewLoaded"]
+- !private ["So20NSCollectionViewItemC", "textField"]
+- !private ["So20NSCollectionViewItemC", "view"]
+- ["So20NSCollectionViewItemC", "viewDidLoad"]
+- !private ["So7NSColorC", "cgColor"]
+- !private ["So7NSColorC", "init"]
+- !private ["So7NSColorC", "white"]
+- !private ["So9NSControlC", "image"]
+- !private ["So9NSControlC", "stringValue"]
+- !private ["So9NSCopyingP", "NSColor"]
+- ["So9NSCopyingP", ""]
+- !private ["So9NSCopyingP", "cgColor"]
+- !private ["So9NSCopyingP", "imageFile"]
+- !private ["So9NSCopyingP", "imageView"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "isSelected"]
+- !private ["So9NSCopyingP", "isViewLoaded"]
+- !private ["So9NSCopyingP", "textField"]
+- !private ["So9NSCopyingP", "view"]
+- !private ["So9NSCopyingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "white"]
+- !private ["So21NSDraggingDestinationP", "image"]
+- !private ["So21NSDraggingDestinationP", "layer"]
+- !private ["So21NSDraggingDestinationP", "stringValue"]
+- !private ["So21NSDraggingDestinationP", "wantsLayer"]
+- !private ["So26NSExtensionRequestHandlingP", "NSColor"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "imageFile"]
+- !private ["So26NSExtensionRequestHandlingP", "imageView"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "isSelected"]
+- !private ["So26NSExtensionRequestHandlingP", "isViewLoaded"]
+- !private ["So26NSExtensionRequestHandlingP", "textField"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So11NSImageViewC", "image"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "ImageFile"]
+- !private ["So8NSObjectC", "NSColor"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- !private ["So8NSObjectC", "borderColor"]
+- !private ["So8NSObjectC", "borderWidth"]
+- !private ["So8NSObjectC", "cgColor"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "imageFile"]
+- !private ["So8NSObjectC", "imageView"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isSelected"]
+- !private ["So8NSObjectC", "isViewLoaded"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectC", "stringValue"]
+- !private ["So8NSObjectC", "textField"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectC", "wantsLayer"]
+- !private ["So8NSObjectC", "white"]
+- !private ["So16NSObjectProtocolP", "NSColor"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "backgroundColor"]
+- !private ["So16NSObjectProtocolP", "borderColor"]
+- !private ["So16NSObjectProtocolP", "borderWidth"]
+- !private ["So16NSObjectProtocolP", "cgColor"]
+- !private ["So16NSObjectProtocolP", "image"]
+- !private ["So16NSObjectProtocolP", "imageFile"]
+- !private ["So16NSObjectProtocolP", "imageView"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isSelected"]
+- !private ["So16NSObjectProtocolP", "isViewLoaded"]
+- !private ["So16NSObjectProtocolP", "layer"]
+- !private ["So16NSObjectProtocolP", "stringValue"]
+- !private ["So16NSObjectProtocolP", "textField"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "wantsLayer"]
+- !private ["So16NSObjectProtocolP", "white"]
+- !private ["So19NSPasteboardReadingP", "cgColor"]
+- !private ["So19NSPasteboardReadingP", "init"]
+- !private ["So19NSPasteboardReadingP", "white"]
+- !private ["So19NSPasteboardWritingP", "cgColor"]
+- !private ["So19NSPasteboardWritingP", "init"]
+- !private ["So19NSPasteboardWritingP", "white"]
+- ["So11NSResponderC", "Bool"]
+- ["So11NSResponderC", "ImageFile"]
+- !private ["So11NSResponderC", "NSColor"]
+- !private ["So11NSResponderC", "image"]
+- ["So11NSResponderC", "imageFile"]
+- !private ["So11NSResponderC", "imageView"]
+- ["So11NSResponderC", "init"]
+- ["So11NSResponderC", "isSelected"]
+- !private ["So11NSResponderC", "isViewLoaded"]
+- !private ["So11NSResponderC", "layer"]
+- !private ["So11NSResponderC", "stringValue"]
+- !private ["So11NSResponderC", "textField"]
+- !private ["So11NSResponderC", "view"]
+- ["So11NSResponderC", "viewDidLoad"]
+- !private ["So11NSResponderC", "wantsLayer"]
+- !private ["So14NSSecureCodingP", "backgroundColor"]
+- !private ["So14NSSecureCodingP", "borderColor"]
+- !private ["So14NSSecureCodingP", "borderWidth"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "white"]
+- !private ["So17NSSeguePerformingP", "NSColor"]
+- ["So17NSSeguePerformingP", ""]
+- !private ["So17NSSeguePerformingP", "imageFile"]
+- !private ["So17NSSeguePerformingP", "imageView"]
+- !private ["So17NSSeguePerformingP", "init"]
+- !private ["So17NSSeguePerformingP", "isSelected"]
+- !private ["So17NSSeguePerformingP", "isViewLoaded"]
+- !private ["So17NSSeguePerformingP", "textField"]
+- !private ["So17NSSeguePerformingP", "view"]
+- !private ["So17NSSeguePerformingP", "viewDidLoad"]
+- !private ["So11NSTextFieldC", "stringValue"]
+- !private ["So18NSTouchBarProviderP", "NSColor"]
+- ["So18NSTouchBarProviderP", ""]
+- !private ["So18NSTouchBarProviderP", "image"]
+- !private ["So18NSTouchBarProviderP", "imageFile"]
+- !private ["So18NSTouchBarProviderP", "imageView"]
+- !private ["So18NSTouchBarProviderP", "init"]
+- !private ["So18NSTouchBarProviderP", "isSelected"]
+- !private ["So18NSTouchBarProviderP", "isViewLoaded"]
+- !private ["So18NSTouchBarProviderP", "layer"]
+- !private ["So18NSTouchBarProviderP", "stringValue"]
+- !private ["So18NSTouchBarProviderP", "textField"]
+- !private ["So18NSTouchBarProviderP", "view"]
+- !private ["So18NSTouchBarProviderP", "viewDidLoad"]
+- !private ["So18NSTouchBarProviderP", "wantsLayer"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "NSColor"]
+- ["So33NSUserInterfaceItemIdentificationP", ""]
+- !private ["So33NSUserInterfaceItemIdentificationP", "image"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "imageFile"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "imageView"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "init"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "isSelected"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "isViewLoaded"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "layer"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "stringValue"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "textField"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "view"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "viewDidLoad"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "wantsLayer"]
+- !private ["So26NSUserInterfaceValidationsP", "stringValue"]
+- !private ["So6NSViewC", "image"]
+- !private ["So6NSViewC", "layer"]
+- !private ["So6NSViewC", "stringValue"]
+- !private ["So6NSViewC", "wantsLayer"]
+- ["So16NSViewControllerC", "Bool"]
+- ["So16NSViewControllerC", "ImageFile"]
+- !private ["So16NSViewControllerC", "NSColor"]
+- ["So16NSViewControllerC", "imageFile"]
+- !private ["So16NSViewControllerC", "imageView"]
+- ["So16NSViewControllerC", "init"]
+- ["So16NSViewControllerC", "isSelected"]
+- !private ["So16NSViewControllerC", "isViewLoaded"]
+- !private ["So16NSViewControllerC", "textField"]
+- !private ["So16NSViewControllerC", "view"]
+- ["So16NSViewControllerC", "viewDidLoad"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "stringValue"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "wantsLayer"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- !private ["s26_ExpressibleByColorLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "white"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "borderColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "borderWidth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageFile"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isSelected"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isViewLoaded"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stringValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "wantsLayer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "white"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So7CALayerC"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- "18Picture_Downloader18CollectionViewItemC"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "18Picture_Downloader9ImageFileC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So15NSAccessibilityP"
+- !private "So30NSAccessibilityElementProtocolP"
+- !private "So20NSAccessibilityImageP"
+- !private "So34NSAccessibilityNavigableStaticTextP"
+- !private "So25NSAccessibilityStaticTextP"
+- !private "So29NSAnimatablePropertyContainerP"
+- !private "So25NSAppearanceCustomizationP"
+- "So8NSCodingP"
+- "So23NSCollectionViewElementP"
+- "So20NSCollectionViewItemC"
+- !private "So7NSColorC"
+- !private "So9NSControlC"
+- "So9NSCopyingP"
+- !private "So21NSDraggingDestinationP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So11NSImageViewC"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So19NSPasteboardReadingP"
+- !private "So19NSPasteboardWritingP"
+- "So11NSResponderC"
+- !private "So14NSSecureCodingP"
+- "So17NSSeguePerformingP"
+- !private "So11NSTextFieldC"
+- "So18NSTouchBarProviderP"
+- "So33NSUserInterfaceItemIdentificationP"
+- !private "So26NSUserInterfaceValidationsP"
+- !private "So6NSViewC"
+- "So16NSViewControllerC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "a9744229f4b7bc44fcbfdca3663d757f"

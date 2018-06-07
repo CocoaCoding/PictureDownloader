@@ -1,0 +1,53 @@
+2018-06-07
+- Update auf aktuelle Xcode Version
+- Version 2.3
+
+2017-08-20
+- Update auf Swift 4
+- Neue Icons für Symbolleiste
+
+2016-07-03 Version 2.1
+- Umgestellt auf NSURLSessionDataTask und NSURLSessionDownloadTask
+- Verbesserungen im Code wenn zwei Items aus dem Repository bei der Analyse gefunden werden
+
+2016-05-17
+- Parser für babehub.com und pmatehunter.com
+
+2016-03-25 Version 2.0
+- Swift 3.0 Anpassungen
+- Wegen nicht funktionierende Menüleiste komplett neu geschrieben
+
+2015-06-20 Version 1.4
+- Swift 2.0
+- http://stackoverflow.com/questions/31254725/transport-security-has-blocked-a-cleartext-http
+
+2015-06-20 Version 1.4
+- PreviewWindow hat jetzt einen Collection View
+
+2015-05-17
+- Ordnerauswahl öffnet jetzt im zuvor ausgewählten Verzeichnis
+- NSOpenPanel mit beginWithCompletionHandler
+- HHSFileDownloader validateUrlStringToRquest
+- PreviewWindow
+
+2015-04-25
+- Badge Icon
+
+2015-03-18
+- Umgestellt auf Swift 1.2
+- Erweitert für Bilder von Playmate Hunter
+- Erweitert für Bilder von Centerfoldlist
+
+2015-01-17
+- Von XIB auf Storybaord umgestellt
+- MainViewController
+- MainWindowController
+- Optionen-Fenster
+
+2015-01-02 Version 1.2
+- NSURLConnection statt NSString.contentsOfURL
+- Warnugen werden angezeigt, wenn keine URL erzeugt werden konnte.
+
+2014-12-23 Version 1.1
+- Bugfixes
+- Tabellenspalte URL wird angezeigt
